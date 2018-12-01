@@ -56,3 +56,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 #Solidus shop gem for storefront and backend functionality
 gem 'solidus'
 gem 'solidus_auth_devise'
+# Require the Materialize Gem
+gem 'materialize-sass', '~> 1.0.0'
